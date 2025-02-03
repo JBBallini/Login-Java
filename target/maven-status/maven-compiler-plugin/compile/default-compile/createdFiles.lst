@@ -1,0 +1,12 @@
+com\balliniprojects\proyectologin\logica\User_.class
+com\balliniprojects\proyectologin\persistencia\ControladoraPersistencia.class
+com\balliniprojects\proyectologin\persistencia\exceptions\NonexistentEntityException.class
+com\balliniprojects\proyectologin\ProyectoLogin.class
+com\balliniprojects\proyectologin\logica\User.class
+com\balliniprojects\proyectologin\logica\ControladoraLogica.class
+com\balliniprojects\proyectologin\persistencia\exceptions\PreexistingEntityException.class
+com\balliniprojects\proyectologin\igu\Principal$1.class
+com\balliniprojects\proyectologin\persistencia\exceptions\IllegalOrphanException.class
+com\balliniprojects\proyectologin\persistencia\UserJpaController.class
+com\balliniprojects\proyectologin\igu\Principal$2.class
+com\balliniprojects\proyectologin\igu\Principal.class
